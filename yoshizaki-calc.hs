@@ -3,7 +3,7 @@
 木を作らずにリストのまま少しづつ短くするような流れ
 意思が弱いのでMaybe多用
 Either?Exception?知らないですね -> ゆえにエラーメッセージが貧弱
-Haskellの基礎から取り組んで3日目には夢にHaskellが出てた
+Haskellの基礎から取り組んで3日目には夢にHaskellが出た
 Haskell警察が来てもエディタの前で副作用万歳と叫ぶ
 -}
 module Main where
